@@ -1,0 +1,27 @@
+Documentation file : https://github.com/harimanasag/BigDataManagement/tree/master/project%20phase%201/Source 
+File Name: PB phase 1 Documentation.docx
+
+
+For the extraction of tweets:
+https://github.com/harimanasag/BigDataManagement/tree/master/project%20phase%201/Source
+File Name:tweets.py
+
+
+Extraction of Hashtags an URLS
+https://github.com/harimanasag/BigDataManagement/tree/master/project%20phase%201/Source
+File Name:TweetsExtraction.py
+
+
+Result output of Hastags and URLS
+https://github.com/harimanasag/BigDataManagement/tree/master/project%20phase%201/Source
+File Name:extractedOutputdata.txt
+
+
+Map reduce using hadoop (directory file)
+https://github.com/harimanasag/BigDataManagement/tree/master/project%20phase%201/Source
+File Name:part-r-00000
+
+
+Map reduce using spark (directory file)
+https://github.com/harimanasag/BigDataManagement/tree/master/project%20phase%201/Source
+File Name:part-00000
